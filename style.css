@@ -1,0 +1,33 @@
+a {
+  text-decoration: none !important;
+  color: rgb(176, 135, 178);
+  font-weight: bold;
+  font-size: large;
+}
+.navbar_brand {
+  height: 30px;
+  width: 24px;
+  border-radius: 50%;
+}
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding-bottom: 10px;
+  border-bottom: solid rgb(169, 153, 153);
+}
+.secound_nav {
+  margin-top: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.nav_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* .logo_div{
+    display: flex;
+} */
